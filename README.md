@@ -1,13 +1,8 @@
-<h1>Trabalho Bootstrap</h1>
-O objetivo da avaliação é avaliar os conhecimentos de Temas de Bootstrap. <br><br>
+<h1>Trabalho Tema de Bootstrap</h1>
+O objetivo da avaliação é avaliar os conhecimentos de Bootstrap. <br><br>
 <ul>
-<li>Cada estudante deve escolher um dos temas abaixo para elaborar um site a partir de temas bootstrap</li>
-<li>Sites auxiliares:
-  <ol>
-  <li>https://startbootstrap.com/themes </li>
-  <li>https://bootstrapmade.com/</li>
-  </ol></li>
-  <li> Ao final compartilhar o link do github, com o print do site anterior no sigaa.</li>
+<li>Cada estudante deve escolher um dos temas abaixo para elaborar um site com bootstrap</li>
+<li>Ao final compartilhar o link do github no sigaa</li>
 </ul>
 <h2>Temas:</h2><ol>
 <li> Pizzaria</li>
